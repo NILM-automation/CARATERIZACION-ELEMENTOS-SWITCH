@@ -1,9 +1,7 @@
-relé 1
-corriente de consumo de ensendido de los relés: 2.45 a 5.95 [mA] ; prueba realizada entre 3.20 y 32 [V]
-tensión de encendido:  3.19
+relÃ© 1
+corriente de consumo de encendido de los relÃ©s: 2.45 a 5.95 [mA] ; prueba realizada entre 3.20 y 32 [V]
+tensiÃ³n de encendido:  3.19 [V]
 
-
-relé 2
-
-corriente de consumo de ensendido de los relés: min 2.80 to 5.22 [mA] ; prueba realizada entre 3.20 y 32 [V]
-tensión de encendido: 3.20 [V]
+relÃ© 2
+corriente de consumo de encendido de los relÃ©s: min 2.80 to 5.22 [mA] ; prueba realizada entre 3.20 y 32 [V]
+tensiÃ³n de encendido: 3.20 [V]
